@@ -3,7 +3,7 @@
     <v-main class="dogs-layout">
       <v-container fill-height>
         <div class="dogs-overlay">
-          <h1 class="display-2 text-xs-center">Choose your favorite dogs</h1>
+          <h1 class="display-2 text-xs-center">Choose your favourite/favorite dogs</h1>
           <v-card class="dog-card">
             <v-img height="400px" :src="currentDogLink"></v-img>
             <v-card-actions>
